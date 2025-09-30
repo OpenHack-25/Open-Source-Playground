@@ -27,15 +27,23 @@ Thank you for your interest in contributing! This guide will help you make your 
 
 ## 🎯 Types of Contributions
 
-### 🌟 Beginner Friendly
-- **Add yourself to CONTRIBUTORS.md**: Perfect first contribution!
-- **Fix typos**: Help improve our documentation
-- **Add Hello World programs**: Share your favorite programming language
+## 🤝 How to Contribute  
 
-### 🔥 Intermediate
-- **Improve existing examples**: Make code more readable or efficient
-- **Add new example programs**: Calculators, simple games, utilities
-- **Enhance documentation**: Add explanations, improve formatting
+### 🌟 Beginner Friendly  
+- **Add yourself to CONTRIBUTORS.md**: Perfect first contribution!  
+- **Fix typos**: Help improve our documentation  
+- **Add Hello World programs**: Share your favorite programming language  
+
+### 🔥 Intermediate  
+- **Improve existing examples**: Make code more readable or efficient  
+- **Add new example programs**: Calculators, simple games, utilities  
+- **Enhance documentation**: Add explanations, improve formatting  
+
+### 🚀 Advanced  
+- **Review and mentor PRs**: Guide beginners in their contributions  
+- **Improve project structure**: Organize code & workflows better  
+- **Add automated testing**: Keep examples bug-free  
+
 
 ### 🚀 Advanced
 - **Code review**: Help review other contributors' pull requests
