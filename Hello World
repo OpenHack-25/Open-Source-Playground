@@ -1,0 +1,12 @@
+// Include the iostream library for input/output operations
+#include <iostream>
+// Use the standard namespace to avoid prefixing standard library elements
+using namespace std;
+
+// Main function where program execution begins
+int main() {
+    // Print "Hello, World!" to the console
+    cout << "Hello, World!" << endl;
+    // Return 0 to indicate successful program execution
+    return 0;
+}
