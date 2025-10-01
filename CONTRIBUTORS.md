@@ -1,6 +1,6 @@
 # 🌟 Contributors
 
-Thank you to all the amazing people who have contributed to the Open Source Playground! 
+Thank you to all the amazing people who have contributed to the Open Source Playground! welcomeee  
 
 ## How to Add Yourself
 
@@ -22,6 +22,7 @@ Fun Fact: I hate notifications!
 ## Our Amazing Contributors
 
 ### [OpenHack-25 Team](https://github.com/OpenHack-25)
+
 - **Fun Fact**: We created this playground to help newcomers start their open source journey!
 - **Favorite Programming Language**: All of them! 🌈
 - **Location**: Global
@@ -30,7 +31,7 @@ Fun Fact: I hate notifications!
 ---
 
 ### [Zafar Ali](https://github.com/zafar-Alee)
-- **Fun Fact**: Fun does not exist in my life!
+- **Fun Fact**: Fun does not exist in my life! why bro????
 - **Favorite Programming Language**: Kotlin
 - **Location**:Nawabshah, Sindh Pakistan
 - **First Contribution Date**: 2024-12-09
