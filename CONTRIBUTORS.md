@@ -35,6 +35,14 @@ Fun Fact: I hate notifications!
 - **Location**:Nawabshah, Sindh Pakistan
 - **First Contribution Date**: 2024-12-09
 
+
+ ## [Ghulam Hussain Khuhro](https://github.com/ghulam-hussain-khuhro)
+- **Fun Fact**: I enjoy teaching AI to understand human languages!
+- **Favorite Programming Language**: Python 
+- **Location**: Jamshoro, Sindh, Pakistan
+- **First Contribution Date**: 2025-10-01
+
+
 ## Statistics
 
 - **Total Contributors**: 1
