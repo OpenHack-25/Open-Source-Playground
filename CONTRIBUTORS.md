@@ -43,6 +43,14 @@ Fun Fact: I hate notifications!
 - **Location**: Jamshoro, Sindh, Pakistan
 - **First Contribution Date**: 2025-10-01
 
+---
+
+### [Duaa Ali Memon ](https://github.com/Duaalimemon)
+- **Fun Fact**: I enjoy teaching AI to be like a Real human (hehe)!
+- **Favorite Programming Language**: JavaScript 🐍
+- **Location**: Gambat, Sindh, Pakistan
+- **First Contribution Date**: 2025-10-01
+
 
 ## Statistics
 
