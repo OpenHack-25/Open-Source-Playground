@@ -29,7 +29,7 @@ Thank you to all the amazing people who have contributed to the Open Source Play
 
 ---
 
-*Add your name above this line! We can't wait to meet you! 🎉*
+*Add your name above this line! We can't wait to meet you! 🎉🎉🎉*
 
 ## Statistics
 
