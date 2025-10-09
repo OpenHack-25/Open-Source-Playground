@@ -11,6 +11,8 @@ This repo is part of Hacktoberfest 2025 — contributions welcome! 🎉
 
 This repository is specifically designed for **Hacktoberfest** participants and newcomers who want to learn Git, GitHub workflows, and make their first open source contributions in a safe, welcoming environment.
 
+Join this amazing platform to boost yourself.
+
 ## 🎯 What is this project?
 
 Open Source Playground is a beginner-friendly repository where you can:
