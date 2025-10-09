@@ -4,7 +4,7 @@
 [![Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**Welcome to your friendly gateway to the world of open source contributions!** 🌟
+**Welcome to your friendly gateway to the world of open source contributions!** 
 
 This repository is specifically designed for **Hacktoberfest** participants and newcomers who want to learn Git, GitHub workflows, and make their first open source contributions in a safe, welcoming environment.
 
