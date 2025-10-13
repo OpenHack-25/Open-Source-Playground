@@ -143,6 +143,10 @@ Feel free to open an issue if you have any questions or need help getting starte
 
 🌟 Open source is not just code, it’s a community — keep sharing and shining! 🌟
 
+## Resources  
+- [Hacktoberfest Official Site](https://hacktoberfest.com)  
+- [GitHub Docs](https://docs.github.com) 
+
 
 
 *Remember: Every expert was once a beginner. Your first contribution matters!*
