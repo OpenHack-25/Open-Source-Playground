@@ -60,6 +60,8 @@ Fun Fact: I hate notifications!
 ### [Sameer Khuhro](https://github.com/sameerkhuhro)
 add: Sameer Khuhro to contributors list
 
+Shafi Muhammad In Contributor List
+
 
 
   add:Dua Ali to contributor list.
