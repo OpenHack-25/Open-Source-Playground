@@ -145,6 +145,8 @@ Feel free to open an issue if you have any questions or need help getting starte
 
 ✨ Keep contributing, and happy Hacktoberfest! ✨
 
+This repo is part of hacktoberfest 2025 
+
 
 
 
