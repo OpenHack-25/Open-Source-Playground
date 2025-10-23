@@ -20,6 +20,9 @@ Open Source Playground is a beginner-friendly repository where you can:
 - Learn Git commands and workflows without fear of breaking anything
 - Connect with other developers starting their open source journey
 
+  What is Hacktoberfest?
+Hacktoberfest is an annual, month-long celebration of open-source software that takes place every October. It was launched in 2014 by DigitalOcean, in partnership with GitHub (and later GitLab and other platforms), with the goal of encouraging more people to contribute to open-source projects. Anyone—whether a seasoned developer or a complete beginner—can participate by making contributions to open-source repositories on GitHub or GitLab.
+
 ## 🚀 Quick Start
 
 ### 1. Fork this repository
