@@ -82,6 +82,13 @@ add : Yasir Nawaz khuhro to list
 - **Location**: Jamshoro, Sindh, Pakistan
 - **First Contribution Date**: 2025-10-14
 
+
+## [Jameel Khuhro](https://github.com/zafar-Alee)
+- **Fun Fact**: Fun  exist in my life!
+- **Favorite Programming Language**: C++
+- **Location**:Gambat, Sindh Pakistan
+- **First Contribution Date**: 2025-10-25
+
 ---
 
 **Want to be featured here?** Follow our [contribution guide](CONTRIBUTING.md) and add yourself!
